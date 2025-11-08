@@ -61,9 +61,7 @@ This project visualizes **5 years of business performance data** across **Financ
 
 ---
 
-| Finance Dashboard | Supply Chain Dashboard | Sales Dashboard | New Dashboard |
-|------------------|----------------------|----------------|----------------|
-|  ![Dashboard Overview](Images/New_Dashboard.png) |![Finance](Images/Finance_Dashboard.png) | ![Supply Chain](Images/SupplyChain_Dashboard.png) | ![Sales](Images/Sales_Dashboard.png) | ![Dashboard Overview](Images/New_Dashboard.png) |
+Dashboard Overiew Added
 
 
 ---
