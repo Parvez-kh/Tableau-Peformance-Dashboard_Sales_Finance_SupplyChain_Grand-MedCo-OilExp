@@ -61,17 +61,9 @@ This project visualizes **5 years of business performance data** across **Financ
 
 ---
 
-### 📷 Preview
-| Finance Dashboard | Supply Chain Dashboard | Sales Dashboard |
-|------------------|----------------------|----------------|
-| ![Finance](Images/Finance_Dashboard.png) | ![Supply Chain](Images/SupplyChain_Dashboard.png) | ![Sales](Images/Sales_Dashboard.png) |
-
-<img width="2559" height="1439" alt="01_FinanceDashboard_Screenshot 2025-11-04 102154" src="https://github.com/user-attachments/assets/e168ccdd-bf8b-45fc-b36d-5ca6295dd129" />
-
-<img width="2555" height="1439" alt="02_SalesDashboard_Screenshot 2025-11-04 102216" src="https://github.com/user-attachments/assets/07d38d24-b0cc-4ee8-a250-7b1735cabdf2" />
-
-<img width="2559" height="1439" alt="03_SupplyChainDashboard_Screenshot 2025-11-04 131927" src="https://github.com/user-attachments/assets/3ef9d531-ba3f-44a7-a9c5-b1c9bd538623" />
-
+| Finance Dashboard | Supply Chain Dashboard | Sales Dashboard | New Dashboard |
+|------------------|----------------------|----------------|----------------|
+| ![Finance](Images/Finance_Dashboard.png) | ![Supply Chain](Images/SupplyChain_Dashboard.png) | ![Sales](Images/Sales_Dashboard.png) | ![New](Images/New_Dashboard.png) |
 
 
 ---
